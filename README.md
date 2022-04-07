@@ -45,3 +45,6 @@ df3.boxplot()
 ![output](scr3.png)
 
 ![output](scr4.png)
+
+# Result:
+Thus the outliers is detected and removed.
